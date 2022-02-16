@@ -1,0 +1,1 @@
+Um contador especializado para HiveMicro e outros aplicativos.'
