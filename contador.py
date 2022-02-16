@@ -32,6 +32,6 @@ while True:
         kb.wait('/',suppress = True, trigger_on_release = True)
 
     if kb.is_pressed('esc') == True:
-        exit()
+        window.close()
         
 window.close()
